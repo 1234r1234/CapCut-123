@@ -1,15 +1,16 @@
-{
-  "version": "15.6.0",
-  "title": "New Update Available!",
-  "subtitle": "ᇂ 100% Secure App No Virus\n  
-ᇂ Export Issue fixed 💯\n 
-ᇂ Templates Working 💯\n 
-ᇂ Hidden Features Enabled\n 
-ᇂ Default Ending Removed\n  
-ᇂ CPU: Universal\n",
-  "update_url": "https://t.me/fotball_kora",
-  "show_close_button": true,
-  "show_expandable_text": true,
-  "expandable_text": "This is the expanded text section providing additional details about the update. It can include more information about new features, improvements, or other relevant notes.",
-  "custom_app_name": "عالم المصممين "
-}
+[
+  {
+    "appName": "CapCut",
+    "packageName": "com.lemon.lvoverseas",
+    "versionCode": 18000100,
+    "updateUrl": "https://t.me/officialSNMods",
+    "title": "Update Required v21.8.0 😁 New",
+    "description": "∆We have released a new update for Capcut with new tools, so please Download it now 🌺
+∆if the new version isn't installed on your phone, uninstall the version you are using and install the latest version from our channel now.",
+    "isForce": false,
+    "isExpired": false,
+    "expiryDate": "2029-09-01",
+    "closeButtonText": "Cancel",
+    "updateButtonText": "Get Update now"
+  }
+]
